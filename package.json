@@ -1,9 +1,6 @@
 {
   "name": "Xinz",
   "version": "1.0.0",
-  "engines": {
-  "npm": "^6.0"
-  },
   "description": "Gak Ada",
   "main": "main.js",
   "directories": {
